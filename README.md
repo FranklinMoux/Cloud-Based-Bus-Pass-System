@@ -1,2 +1,2 @@
-# Cloud-Based-Buss-Pass-System
+# Cloud-Based-Bus-Pass-System
 Mini Project
